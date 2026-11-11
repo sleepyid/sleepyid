@@ -7,4 +7,4 @@
 🛠️ Kullandığım Teknolojiler
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux" alt="Teknolojiler" /> </p>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=sleepyid&color=7aa2f7&style=flat-square&label=Profil+Görüntülenme" alt="Profil görüntülenme" /> </div> <!-- Altta dalgalanan kapanış --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" alt="Alt dalga" />
+</div> <!-- Altta dalgalanan kapanış --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" alt="Alt dalga" />
