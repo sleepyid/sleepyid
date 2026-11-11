@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=200&section=header&text=sleepyid&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B%C3%BCy%C3%BCk%20Veri%20Analisti%20Aday%C4%B1&descAlignY=58&descSize=18" alt="Başlık" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=200&section=header&text=Yi%C4%9Fit%20T%C3%BCrky%C4%B1lmaz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B%C3%BCy%C3%BCk%20Veri%20Analisti%20Aday%C4%B1&descAlignY=58&descSize=18" alt="Başlık" />
 
 ## 👨‍💻 Hakkımda
 
