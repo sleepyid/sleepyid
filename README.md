@@ -5,6 +5,6 @@
 📊 Veri analizi, veri yapıları ve algoritmalarla ilgileniyorum
 🌱 Öğrendiklerimi ve ders projelerimi burada paylaşıyorum
 🛠️ Kullandığım Teknolojiler
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux" alt="Teknolojiler" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" alt="Teknolojiler" /> </p>
 
 </div> <!-- Altta dalgalanan kapanış --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" alt="Alt dalga" />
